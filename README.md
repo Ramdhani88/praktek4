@@ -11,6 +11,7 @@ Gambar tampilan menu Contact
 <img width="960" alt="ss2" src="https://user-images.githubusercontent.com/81758035/115946143-6e4ff080-a4e9-11eb-9e48-a9ba7e99b6ec.png">
 Code untuk Mengatur "Clearfix Element"
 <img width="960" alt="ss5" src="https://user-images.githubusercontent.com/81758035/115946155-7c9e0c80-a4e9-11eb-9e96-40199788f605.png">
+## Praktik Membuat Layout HTML
 Tampilan di Browser
 <img width="960" alt="ss6" src="https://user-images.githubusercontent.com/81758035/115946176-a6efca00-a4e9-11eb-9c99-71dba0859949.png">
 Code Membuat "Layout Sederhana"
@@ -23,7 +24,7 @@ Code untuk membuat CSS
 <img width="960" alt="ss12" src="https://user-images.githubusercontent.com/81758035/115945441-0f3cac80-a4e6-11eb-9b66-6436aab84f9b.png">
 <img width="960" alt="ss13" src="https://user-images.githubusercontent.com/81758035/115945445-1368ca00-a4e6-11eb-8e99-bbc6f7af72b6.png">
 <img width="960" alt="ss14" src="https://user-images.githubusercontent.com/81758035/115945449-16fc5100-a4e6-11eb-99c3-781b3c6b2761.png">
-<img width="960" alt="ss15" src="https://user-images.githubusercontent.com/81758035/115945452-195eab00-a4e6-11eb-98c0-8331ff2c029e.png">
+<img width="960" alt="ss15" src="https://user-images.githubusercontent.com/81758035/115946222-fafaae80-a4e9-11eb-81fa-40232643795a.png">
 Tampilan di Browser
-<img width="960" alt="ss16" src="https://user-images.githubusercontent.com/81758035/115945490-4ad77680-a4e6-11eb-876d-c735eeeef5fd.png">
-<img width="960" alt="ss17" src="https://user-images.githubusercontent.com/81758035/115945491-4ca13a00-a4e6-11eb-8f48-d72c588e5ebe.png">
+<img width="960" alt="ss16" src="https://user-images.githubusercontent.com/81758035/115946212-efa78300-a4e9-11eb-8b9d-0ca1fe5a11ea.png">
+<img width="960" alt="ss17" src="https://user-images.githubusercontent.com/81758035/115946213-f209dd00-a4e9-11eb-8435-580934a4cc8c.png">
