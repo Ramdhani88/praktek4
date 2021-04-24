@@ -18,6 +18,7 @@ Code Membuat "Layout Sederhana"
 <img width="960" alt="ss7" src="https://user-images.githubusercontent.com/81758035/115946632-ca684400-a4ec-11eb-8a84-7bc92dc2ea11.png">
 <img width="960" alt="ss8" src="https://user-images.githubusercontent.com/81758035/115946636-cd633480-a4ec-11eb-9b57-ed1112bd1f97.png">
 <img width="960" alt="ss9" src="https://user-images.githubusercontent.com/81758035/115946638-cfc58e80-a4ec-11eb-9804-2f4d0e4af780.png">
+
 Code untuk membuat CSS
 <img width="960" alt="ss10" src="https://user-images.githubusercontent.com/81758035/115946652-e7047c00-a4ec-11eb-8e38-de6bf00108b6.png">
 <img width="960" alt="ss11" src="https://user-images.githubusercontent.com/81758035/115946654-eb309980-a4ec-11eb-899a-e1088a56cd4d.png">
