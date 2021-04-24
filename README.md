@@ -12,6 +12,7 @@ Gambar tampilan menu Contact
 Code untuk Mengatur "Clearfix Element"
 <img width="960" alt="ss5" src="https://user-images.githubusercontent.com/81758035/115946155-7c9e0c80-a4e9-11eb-9e96-40199788f605.png">
 ## Praktik Membuat Layout HTML
+
 Tampilan di Browser
 <img width="960" alt="ss6" src="https://user-images.githubusercontent.com/81758035/115946176-a6efca00-a4e9-11eb-9c99-71dba0859949.png">
 Code Membuat "Layout Sederhana"
