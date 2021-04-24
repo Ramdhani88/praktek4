@@ -5,7 +5,8 @@
 ## Menjawab Pertanyaan Tugas Praktek 4
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
 Gambar tampilan menu about
-<img width="960" alt="ss1" src="https://user-images.githubusercontent.com/81758035/115945787-6b540080-a4e7-11eb-9aa5-7173786dd9cc.png">
+<img width="960" alt="ss1" src="https://user-images.githubusercontent.com/81758035/115945855-c554c600-a4e7-11eb-9972-1e68f8e1e43b.png">
+
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
 Gambar tampilan menu Contact
 <img width="960" alt="ss2" src="https://user-images.githubusercontent.com/81758035/115944661-3c3a9080-a4e1-11eb-9950-1adfee83726f.png">
