@@ -9,4 +9,5 @@ Gambar Tampilan Menu About <img width="960" alt="ss1" src="https://user-images.g
 <img width="960" alt="ss2" src="https://user-images.githubusercontent.com/81758035/115946439-56796c00-a4eb-11eb-8a38-ec0304ee0211.png">
 
 ## Praktik membuat layout HTML
+Code untuk membuat "box element dengan tag div"<img width="960" alt="ss3" src="https://user-images.githubusercontent.com/81758035/115946507-d43d7780-a4eb-11eb-968c-2b18618e210a.png">
 
