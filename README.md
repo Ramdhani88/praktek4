@@ -3,6 +3,6 @@
 ### Nama : Muhammad Rizky Ramdhani
 ### NIM : 311910233
 ## Menjawab Pertanyaan Tugas Praktek 4
-I
+1. Tambahkan layout untuk menu about => buat single layout yang berisi deskripsi , portofolio,dll
 
 
