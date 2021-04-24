@@ -11,7 +11,7 @@ Gambar tampilan menu Contact
 <img width="960" alt="ss2" src="https://user-images.githubusercontent.com/81758035/115944661-3c3a9080-a4e1-11eb-9950-1adfee83726f.png">
 
 Code untuk Mengatur "Clearfix Element"
-<img width="960" alt="ss5" src="https://user-images.githubusercontent.com/81758035/115945093-1a8ed880-a4e4-11eb-9b35-bb9d9657bda6.png">
+![image](https://user-images.githubusercontent.com/81758035/115945998-9db22d80-a4e8-11eb-8347-6b01d78f6cf1.png)
 Tampilan di Browser
 <img width="960" alt="ss6" src="https://user-images.githubusercontent.com/81758035/115945607-b02b6780-a4e6-11eb-8960-fbe108c3720c.png">
 Code Membuat "Layout Sederhana"
