@@ -9,10 +9,7 @@ Gambar tampilan menu about
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
 Gambar tampilan menu Contact
 <img width="960" alt="ss2" src="https://user-images.githubusercontent.com/81758035/115944661-3c3a9080-a4e1-11eb-9950-1adfee83726f.png">
-## Praktek Membuat Layout HTML
-Code untuk membuat "box element dengan tag div" ![image](https://user-images.githubusercontent.com/81758035/115945964-63e12700-a4e8-11eb-8c8a-faa3fbfe3b36.png)
-Tampilan di Browser
-<img width="960" alt="ss4" src="https://user-images.githubusercontent.com/81758035/115945555-83775000-a4e6-11eb-916f-f0fbf252b2c8.png">
+
 Code untuk Mengatur "Clearfix Element"
 <img width="960" alt="ss5" src="https://user-images.githubusercontent.com/81758035/115945093-1a8ed880-a4e4-11eb-9b35-bb9d9657bda6.png">
 Tampilan di Browser
